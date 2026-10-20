@@ -1,1 +1,1 @@
-# Prognoza_sprzeda-y
+# Prognoza_sprzedazy
